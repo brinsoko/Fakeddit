@@ -1,3 +1,6 @@
+torch
+matplotlib
+sklearn
 numpy==1.16.4
 tqdm==4.32.2
 pandas==0.24.2
